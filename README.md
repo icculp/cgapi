@@ -11,6 +11,9 @@ How-to coming soon with explanation on how to build your own dashboard...
 
 
 Useful links
+
 https://www.coingecko.com/en/api
+
 https://api.coingecko.com/api/v3/coins/list
+
 https://www.coingecko.com/api/documentations/v3#/
