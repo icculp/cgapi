@@ -8,3 +8,9 @@ The purpose of this project is to have API request code easily accessible for us
 Each file represents a function that obtains the price data for a specific asset and returns the value back to the active spreadsheet. This is a simple api request using google script inside of google sheets to access price data via the Coin Gecko API. 
 
 How-to coming soon with explanation on how to build your own dashboard...
+
+
+Useful links
+https://www.coingecko.com/en/api
+https://api.coingecko.com/api/v3/coins/list
+https://www.coingecko.com/api/documentations/v3#/
