@@ -17,3 +17,5 @@ https://www.coingecko.com/en/api
 https://api.coingecko.com/api/v3/coins/list
 
 https://www.coingecko.com/api/documentations/v3#/
+https://www.coingecko.com/api/documentations/v3#/
+https://www.coingecko.com/api/documentations/v3#/
