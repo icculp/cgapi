@@ -6,5 +6,5 @@ function xlmPrice() {
   var fact = response.getContentText();
   var d = JSON.parse(fact)
   var sheet = SpreadsheetApp.getActiveSheet();
-  sheet.getRange(1,2).setValue(d.stellar.usd);
+  sheet.getRange(9,5).setValue(d.stellar.usd);
 }
